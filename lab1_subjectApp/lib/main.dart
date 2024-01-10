@@ -116,7 +116,7 @@ class _MyHomePageState extends State<MyHomePage> {
             );
           },
           tooltip: 'Increment',
-          child: Text('Add subject'),
+          child: const Text('Add subject'),
         ),
       ),
       floatingActionButtonLocation: FloatingActionButtonLocation.centerFloat,
